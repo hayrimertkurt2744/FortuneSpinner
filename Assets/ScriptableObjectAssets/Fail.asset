@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: Fail
   m_EditorClassIdentifier: 
   cellTypeName: Fail
-  cellScript: You Failed!
   isPrize: 0
   isPoint: 0
   isReSpin: 0

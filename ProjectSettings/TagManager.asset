@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Background
   - Water
   - UI
-  - 
-  - 
+  - Spinner
+  - Cursor
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3142153871
+    locked: 0
+  - name: Spinner
+    uniqueID: 2997331117
+    locked: 0
+  - name: Cursor
+    uniqueID: 747420059
+    locked: 0
+  - name: UI
+    uniqueID: 1627572151
     locked: 0

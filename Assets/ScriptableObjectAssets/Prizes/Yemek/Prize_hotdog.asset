@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0a930fd57439784419d89005221049f6, type: 3}
-  m_Name: SpinnerCell1
+  m_Name: Prize_hotdog
   m_EditorClassIdentifier: 
-  cellType: {fileID: 11400000, guid: 2de8f5d8a2ae299429cd0c79c2ab7a4a, type: 2}
-  cellSprite: {fileID: 7482667652216324306, guid: 14e6eadc0ccf34a4aa545eb3a552b1cd, type: 3}
-  cellSpriteWon: {fileID: -2413806693520163455, guid: 19d4307d32964104fb07d268353db04a, type: 3}
+  cellTypeName: Double Hotdog
+  cellScript: "Double Hotdog'dan Hotdog Kazand\u0131n\u0131z!"
+  amount: 10
+  cellType: {fileID: 11400000, guid: ccf671efa6e0f2147ac65875c4de8b28, type: 2}
+  cellSprite: {fileID: 0}
+  cellSpriteWon: {fileID: 0}
   isWon: 0

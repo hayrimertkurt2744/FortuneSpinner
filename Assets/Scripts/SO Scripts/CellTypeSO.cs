@@ -7,13 +7,9 @@ public class CellTypeSO : ScriptableObject
 {
     public string cellTypeName;
 
-    public string cellScript;
-
     public bool isPrize;
 
-    public bool isPoint;
-
-    public bool isReSpin;
+    public bool isRespin;
 
     public bool isFailed;
 

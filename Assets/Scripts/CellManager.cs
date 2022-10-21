@@ -4,17 +4,18 @@ using UnityEngine;
 
 public class CellManager : MonoBehaviour
 {
-    public SpinnerCellSO spinnerCell;
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] private SpinnerCellSO spinnerCellSO;
+    [HideInInspector]public string cellName;
+
+    private void Start()
     {
+        if (spinnerCellSO.cellTypeName!=null)
+        {
+            cellName = spinnerCellSO.cellTypeName;
+        }
+        
         
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-    
+
 }

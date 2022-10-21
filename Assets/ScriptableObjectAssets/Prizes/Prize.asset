@@ -9,9 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3bf3e4ac895a8bd4098e0960446e2982, type: 3}
-  m_Name: CellTypeList_1
+  m_Script: {fileID: 11500000, guid: 5aabbfeff384a744ab2b8f48fc21ee30, type: 3}
+  m_Name: Prize
   m_EditorClassIdentifier: 
-  cellTypes:
-  - {fileID: 11400000, guid: 2de8f5d8a2ae299429cd0c79c2ab7a4a, type: 2}
-  - {fileID: 11400000, guid: ac23f2afa9da8e948956c5d573c135e7, type: 2}
+  cellTypeName: Prize
+  isPrize: 1
+  isPoint: 0
+  isReSpin: 0
+  isFailed: 0
