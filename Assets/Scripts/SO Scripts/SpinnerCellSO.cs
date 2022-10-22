@@ -12,10 +12,12 @@ public class SpinnerCellSO : ScriptableObject
 
     public int amount;
 
-    [SerializeField] private CellTypeSO cellType;
+    public List<string> prizes;
 
-    [SerializeField] private Sprite cellSprite;
-    [SerializeField] private Sprite cellSpriteWon;
+    public  CellTypeSO cellType;
+
+     public Sprite cellSprite;
+     public Sprite cellSpriteWon;
 
     [HideInInspector] public bool isWon;
 

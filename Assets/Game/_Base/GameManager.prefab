@@ -15,7 +15,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &702160666684467976
 Transform:
@@ -43,5 +43,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d71a0083db93a6340b7bf243c2bf5bb0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spinSpeed: 50
-  spinAngles: 0f0000001e0000002d0000003c0000004b0000005a0000005a00000069000000780000008700000096000000a5000000b4000000c3000000d2000000e1000000f0000000ff0000000e0100001d0100002c0100003b0100004a0100005901000068010000
+  currentState: 0

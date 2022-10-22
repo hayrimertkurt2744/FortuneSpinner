@@ -13,9 +13,15 @@ MonoBehaviour:
   m_Name: Prize_konser_flort
   m_EditorClassIdentifier: 
   cellTypeName: "Fl\xF6rt Konseri"
-  cellScript: "Fl\xF6rt Konserine Bilet Kazand\u0131n\u0131z!"
-  amount: 5
+  cellScript: 
+  amount: 4
+  prizes:
+  - "Fl\xF6rt Konserine Bilet Kazand\u0131n\u0131z!"
+  - "Fl\xF6rt Konserine Bilet Kazand\u0131n\u0131z!"
+  - "Fl\xF6rt Konserine Bilet Kazand\u0131n\u0131z!"
+  - "Fl\xF6rt Konserine Bilet Kazand\u0131n\u0131z!"
+  - "Fl\xF6rt Konserine Bilet Kazand\u0131n\u0131z!"
   cellType: {fileID: 11400000, guid: ccf671efa6e0f2147ac65875c4de8b28, type: 2}
-  cellSprite: {fileID: 0}
+  cellSprite: {fileID: 21300000, guid: a3a5545c6f30920418a9856064d42ed7, type: 3}
   cellSpriteWon: {fileID: 0}
   isWon: 0

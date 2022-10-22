@@ -13,9 +13,15 @@ MonoBehaviour:
   m_Name: Prize_wanted_sufle
   m_EditorClassIdentifier: 
   cellTypeName: Wanted
-  cellScript: "Wanted'dan Sufle Kazand\u0131n\u0131z!"
-  amount: 5
+  cellScript: 
+  amount: 4
+  prizes:
+  - "Wanted'dan Sufle Kazand\u0131n\u0131z!"
+  - "Wanted'dan Sufle Kazand\u0131n\u0131z!"
+  - "Wanted'dan Sufle Kazand\u0131n\u0131z!"
+  - "Wanted'dan Sufle Kazand\u0131n\u0131z!"
+  - "Wanted'dan Sufle Kazand\u0131n\u0131z!"
   cellType: {fileID: 11400000, guid: ccf671efa6e0f2147ac65875c4de8b28, type: 2}
-  cellSprite: {fileID: 0}
+  cellSprite: {fileID: 4299859164303002928, guid: 67fad8d2669befe46b77a55e55694061, type: 3}
   cellSpriteWon: {fileID: 0}
   isWon: 0

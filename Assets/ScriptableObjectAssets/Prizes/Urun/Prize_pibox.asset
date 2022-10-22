@@ -13,9 +13,12 @@ MonoBehaviour:
   m_Name: Prize_pibox
   m_EditorClassIdentifier: 
   cellTypeName: Pi Box
-  cellScript: "Pi Box'dan Tarot Fal\u0131 Kazand\u0131n\u0131z!"
-  amount: 2
+  cellScript: 
+  amount: 1
+  prizes:
+  - "Pi Box'dan Tarot Fal\u0131 Kazand\u0131n\u0131z!"
+  - "Pi Box'dan Tarot Fal\u0131 Kazand\u0131n\u0131z!"
   cellType: {fileID: 11400000, guid: ccf671efa6e0f2147ac65875c4de8b28, type: 2}
-  cellSprite: {fileID: 0}
+  cellSprite: {fileID: 2812401579976825191, guid: 67fad8d2669befe46b77a55e55694061, type: 3}
   cellSpriteWon: {fileID: 0}
   isWon: 0

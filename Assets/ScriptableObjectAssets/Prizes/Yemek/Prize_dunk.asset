@@ -13,9 +13,13 @@ MonoBehaviour:
   m_Name: Prize_dunk
   m_EditorClassIdentifier: 
   cellTypeName: Dunk
-  cellScript: "Dunk Cafe'den Kahve Kazand\u0131n\u0131z!"
-  amount: 3
+  cellScript: 
+  amount: 2
+  prizes:
+  - "Dunk Cafe'den Kahve Kazand\u0131n\u0131z!"
+  - "Dunk Cafe'den Kahve Kazand\u0131n\u0131z!"
+  - "Dunk Cafe'den Kahve Kazand\u0131n\u0131z!"
   cellType: {fileID: 11400000, guid: ccf671efa6e0f2147ac65875c4de8b28, type: 2}
-  cellSprite: {fileID: 0}
+  cellSprite: {fileID: 3940520526161779665, guid: 67fad8d2669befe46b77a55e55694061, type: 3}
   cellSpriteWon: {fileID: 0}
   isWon: 0
