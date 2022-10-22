@@ -4780,46 +4780,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 589988086, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 589988086, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
+      propertyPath: m_ScreenMatchMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 589988086, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0.954
+      objectReference: {fileID: 0}
     - target: {fileID: 589988087, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 519420031}
-    - target: {fileID: 913326969534804936, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1597681890025371641, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1597681890025371641, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1597681890025371641, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 18127851}
-    - target: {fileID: 1597681890025371641, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1597681890025371641, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1597681890025371641, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1597681890025371641, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
-      value: SpinHandler, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 1597681890025371641, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 1597681890278512554, guid: ef7b3c16d24cf57429b6d5c4bcb27663, type: 3}
       propertyPath: m_Name
       value: UIManager
